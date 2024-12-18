@@ -5,3 +5,6 @@
 - 📫 How to reach me "https://www.linkedin.com/in/tahsin-jabee-a21b69254"
 - 😄 Pronouns:she/her
 - ⚡ Fun fact: I once spent hours solving a bug, only to find out it was caused by a missing semicolon 😅
+
+![Profile Views](https://komarev.com/ghpvc/?username=TahsinZahir&color=blue)
+
